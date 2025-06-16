@@ -7,6 +7,6 @@ const mockUser: User = {
   email: "tom.bannister@example.com",
 };
 
-export function getMockUserId(): User {
+export function getMockUser(): User {
   return mockUser;
 }
