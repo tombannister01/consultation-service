@@ -4,11 +4,23 @@ const questionsByUser: Record<string, Question[]> = {
   user_1001: [
     {
       id: "ques_75153998",
-      question: "What is the best way to improve my workflow?",
+      question: "Are you seeking Weight loss solutions?",
     },
     {
       id: "ques_75154001",
-      question: "How can I integrate TypeScript into my project?",
+      question: "Do you have any dietary restrictions?",
+    },
+    {
+      id: "ques_751539534",
+      question: "Have you been diagnosed with diabetes?",
+    },
+    {
+      id: "ques_751540363461",
+      question: "Have you tried any weight loss treatments before?",
+    },
+    {
+      id: "ques_484740363461",
+      question: "Are you currently taking any medications?",
     },
   ],
   user_1002: [

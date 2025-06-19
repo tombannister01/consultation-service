@@ -73,7 +73,7 @@ export const Home = () => {
           <div>
             <h3>Contact Us</h3>
             <p>Email: medexpress.support.com</p>
-            <p>Phone: (555) 123-4567</p>
+            <p>Phone: +44 7973152269</p>
           </div>
           <div>
             <h3>Legal</h3>

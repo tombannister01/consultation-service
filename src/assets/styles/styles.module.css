@@ -35,11 +35,12 @@
   border-radius: 8px;
   color: black;
   background: white;
-  height: 400px;
+  height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-bottom: 100px;
 }
 
 .buttonGroup {
